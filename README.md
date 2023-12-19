@@ -56,7 +56,7 @@ _Jul 2019 – Dec 2020_
 
 ## Technical Skills 💻
 
-- **Skills & Tools:** - **Skills & Tools:**
+- **Skills & Tools:**
    ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau)
    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
    ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter)
