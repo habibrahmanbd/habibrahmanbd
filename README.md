@@ -41,18 +41,7 @@ _Jul 2019 – Dec 2020_
 - **Tech Stack:** C++, C#, UWP, WPF, Scrum
 
 ## Projects 🛠️
-
-- **Synthesizing Libraries of Programs by Optimizing an Auxiliary Function**  
-  _Dec 2021 – Sep 2023_  
-  Developed an approach for augmenting program libraries and optimizing auxiliary functions.
-
-- **Debiasing Multiclass Demographics in Language Models**  
-  _Sep 2021 – Dec 2021_  
-  Implemented a regularizer to reduce biases in BERT language models.
-
-- **Data Augmentation in NMT: A Case-study for English to Portuguese**  
-  _Jan 2021 – Apr 2021_  
-  Developed a new method for data augmentation in translation tasks.
+ - Please check my git profile for recent updates.
 
 ## Technical Skills 💻
 
