@@ -18,7 +18,7 @@ Location: Edmonton AB Canada
 
 ## Experience 💼
 
-### Machine Learning Developer  
+### Software Developer (ML)  
 _Feb 2023 – Present_  
 **Awele Technologies Inc., Edmonton AB Canada**
 - Developed a recommendation-based algorithm to improve route accuracy by 50%.
